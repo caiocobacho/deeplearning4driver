@@ -1,4 +1,4 @@
-# Motorista distraido DeepLearning
+# Deep learning para motoristas
 
 Esse projeto tem como objetivo detectar atitudes perigosa enquanto dirige,baseada nas imagens capturadas no painel do carro, usando deep learning.
 
